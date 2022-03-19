@@ -4,7 +4,7 @@
       "id": 1,
       "name": "여행 이름!!!",
       "periods": 1,
-      "concept": [],
+      "concept": [1, 2],
       "startDay": "2022/03/19",
       "arriveDay": "20211218",
       "dayOrder": ["Day-1", "Day-2"],
